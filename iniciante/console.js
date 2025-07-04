@@ -1,9 +1,13 @@
-// Exibir algo na tela:
-// Usamos o método `log` que está dentro do objeto `console`.
+/* Exibir algo na tela:
+ * Usamos o método `log` que está dentro do objeto `console`.
+*/
 console.log('Matheus "Frugoni"');
 
-// Quando usamos aspas simples, não conseguimos exibir aspas simples dentro do mesmo texto,
-// a não ser que sejam de outro tipo, como aspas duplas:
+/*
+Quando usamos aspas simples, não conseguimos exibir 
+aspas simples dentro do mesmo texto,
+a não ser que sejam de outro tipo, como aspas duplas:
+*/
 console.log("Matheus 'Frugoni'");
 
 // Com aspas duplas, o mesmo acontece: conseguimos usar aspas simples dentro.
