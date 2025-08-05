@@ -31,3 +31,16 @@ console.log(3.4);
 
 console.log(45, 4.2, "Teste novo string");
 // Podemos exibir vários valores juntos: números e textos (strings).
+
+//Console.log, pode ser usado no terminal e também no console do navegador.
+
+// Comando roda e começa a dar erro no próximo código 
+// O motivo: 
+/**
+ * Mesmo sendo a mesma engine ele não 
+ * tem a mesma coisa e não se comportam 
+ * de maneira igual. 
+ */
+alert("Validando comando entre NODE e Browser");
+
+// ele da erro no NODE, mas no Browser aparece. 
